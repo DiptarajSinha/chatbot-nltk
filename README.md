@@ -22,4 +22,14 @@ A natural language processing (NLP) based chatbot built using Python and the NLT
   - `random`
   - `string`
 
+Open the notebook in Jupyter or Colab and run all cells.
+
+---
+
+## 🧠 Author
+
+- **Name:** Diptaraj Sinha  
+- **GitHub:** [@yourusername](https://github.com/DiptarajSinha)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/diptaraj-sinha-b2270b256)
+
 ---
